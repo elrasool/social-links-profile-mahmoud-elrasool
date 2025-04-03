@@ -71,8 +71,6 @@ I learned how to use mobile-first approach and to add custom styling for every b
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
 I need to deeply understand responsiveness and accessibility.
 
 ## Author
